@@ -1,0 +1,33 @@
+_repo: Confessions-of-the-Czarina_53108
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Radziwill, Catherine, Princess
+    aliases:
+    - Rzewuska, Ekaterina Adamovna, Countess
+    - Ebenthal, Hildegarde
+    - Radziwill, Ekaterina, Princess
+    - Vassili, Paul, comte
+    - Kolb-Danvin, Catherine
+    birthdate: 1858
+    deathdate: 1941
+    gutenberg_agent_id: '6815'
+    url: http://www.gutenberg.org/2009/agents/6815
+    wikipedia: http://en.wikipedia.org/wiki/Catherine_Radziwill
+description: ''
+gutenberg_issued: '2016-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53108'
+  lccn: '18009740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Russia -- Court and courtiers'
+- !lcsh 'Alexandra, Empress, consort of Nicholas II, Emperor of Russia, 1872-1918'
+- GITenberg
+title: Confessions of the Czarina
+url: http://www.gutenberg.org/ebooks/53108
